@@ -13,7 +13,7 @@
 - 💡 Passionate about **modern UI frameworks, responsive design, and performance optimization**
 - 🧠 I’m constantly learning **TypeScript**, **GraphQL**, and **state management tools**
 - ⚡ I love building beautiful, scalable, and fast web & mobile applications
-- 📫 Reach me at: khalilbnmokhtar@gmail.com (mailto:khalilbnmokhtar@gmail.com)
+- 📫 Reach me at: khalilbnmokhtar@gmail.com
 
 ---
 
